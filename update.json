@@ -1,1 +1,8 @@
-{"build":2,"version":"1.3.3-mod","url":"https://raw.githubusercontent.com/afhimel/anihim-updates/main/AniHim.apk","notes":"","force":false,"sig":""}
+{
+  "build": 3,
+  "version": "1.4.0",
+  "url": "https://raw.githubusercontent.com/afhimel/anihim-updates/main/AniHim.apk",
+  "notes": "New local profile, My List status tabs (Watching / Completed / Plan to Watch / On Hold), fixed Continue Watching for new seasons, and automatic backup of your list and progress.",
+  "force": false,
+  "sig": "0b1f0cc5d43ab441d3d1740e512c8444f35256d9ccef66939f367acbeb326be3"
+}
