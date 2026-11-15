@@ -1,8 +1,8 @@
 {
-  "build": 5,
-  "version": "1.4.2",
+  "build": 6,
+  "version": "1.4.3",
   "url": "https://raw.githubusercontent.com/afhimel/anihim-updates/main/AniHim.apk",
-  "notes": "Popups rebuilt as AniHim dark rounded cards with orange actions; the name editor is now a custom in-app form instead of a stock Android dialog.",
+  "notes": "Profile redesigned: compact identity, metrics, resume banner, library tiles, milestone sheet, and AniHim bottom sheets for name, status, removal and settings. Portrait Continue cards, visible status menu in My List, and fixed Continue Watching removal.",
   "force": false,
-  "sig": "ee29dbcf9501c6534d6f757239b737d7df562b6da8a1c2b6e7be61ee233636c9"
+  "sig": "f86e8f45f58b55a1211f417b7b544ceb174f766c0e039a8ad9ea98f95933f2a9"
 }
