@@ -1,8 +1,8 @@
 {
-  "build": 4,
-  "version": "1.4.1",
+  "build": 5,
+  "version": "1.4.2",
   "url": "https://raw.githubusercontent.com/afhimel/anihim-updates/main/AniHim.apk",
-  "notes": "AniHim-themed popups and icons, plus a Notifications panel in Profile: live status, enable, test notification and Check My List now.",
+  "notes": "Popups rebuilt as AniHim dark rounded cards with orange actions; the name editor is now a custom in-app form instead of a stock Android dialog.",
   "force": false,
-  "sig": "ef374f046e88cba500dd5cb935398fa5863dad6ae28fcc578c6bb9dc5aadc206"
+  "sig": "ee29dbcf9501c6534d6f757239b737d7df562b6da8a1c2b6e7be61ee233636c9"
 }
