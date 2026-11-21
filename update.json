@@ -1,8 +1,8 @@
 {
-  "build": 6,
-  "version": "1.4.3",
+  "build": 7,
+  "version": "1.4.4",
   "url": "https://raw.githubusercontent.com/afhimel/anihim-updates/main/AniHim.apk",
-  "notes": "Profile redesigned: compact identity, metrics, resume banner, library tiles, milestone sheet, and AniHim bottom sheets for name, status, removal and settings. Portrait Continue cards, visible status menu in My List, and fixed Continue Watching removal.",
+  "notes": "Continue Watching removal now stays removed after restart; Continue/Resume removed from Profile; offline downloads show their anime artwork; every popup and sheet restyled with brighter layered AniHim surfaces and gradient actions.",
   "force": false,
-  "sig": "f86e8f45f58b55a1211f417b7b544ceb174f766c0e039a8ad9ea98f95933f2a9"
+  "sig": "9de891ef8fd01bf2898cbfd6a2dbf32a2c694863d9b489c946fa4b7a591167e3"
 }
