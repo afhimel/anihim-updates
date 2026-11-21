@@ -1,8 +1,8 @@
 {
-  "build": 7,
-  "version": "1.4.4",
+  "build": 8,
+  "version": "1.4.5",
   "url": "https://raw.githubusercontent.com/afhimel/anihim-updates/main/AniHim.apk",
-  "notes": "Continue Watching removal now stays removed after restart; Continue/Resume removed from Profile; offline downloads show their anime artwork; every popup and sheet restyled with brighter layered AniHim surfaces and gradient actions.",
+  "notes": "Every popup now uses the same AniHim #15151C surface with solid orange buttons; Profile stats are centered and aligned; Recent removed from Profile.",
   "force": false,
-  "sig": "9de891ef8fd01bf2898cbfd6a2dbf32a2c694863d9b489c946fa4b7a591167e3"
+  "sig": "d6862ab75060cfb67b7a7f1c6db545fc99fa8ace4c2438cc8b1a867efc458041"
 }
