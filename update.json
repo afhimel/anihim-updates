@@ -1,8 +1,8 @@
 {
-  "build": 9,
-  "version": "1.4.6",
+  "build": 10,
+  "version": "1.4.7",
   "url": "https://raw.githubusercontent.com/afhimel/anihim-updates/main/AniHim.apk",
-  "notes": "Continue Watching now refreshes the moment you return to Home or reopen AniHim, without pressing the refresh button.",
+  "notes": "Update now shows an in-app download card with percentage, orange progress bar, MB downloaded, status and Cancel instead of relying only on the notification.",
   "force": false,
-  "sig": "bbbe2524063678954ea9cd940de0a03f9edbae13d8be0b5c8a30f8d9773a8212"
+  "sig": "9767bcd1d8d2dbdedfec8c68bb8e2dce18b8420c433f8fa333c3737dffdd0308"
 }
