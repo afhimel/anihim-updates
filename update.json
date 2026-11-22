@@ -1,8 +1,8 @@
 {
-  "build": 8,
-  "version": "1.4.5",
+  "build": 9,
+  "version": "1.4.6",
   "url": "https://raw.githubusercontent.com/afhimel/anihim-updates/main/AniHim.apk",
-  "notes": "Every popup now uses the same AniHim #15151C surface with solid orange buttons; Profile stats are centered and aligned; Recent removed from Profile.",
+  "notes": "Continue Watching now refreshes the moment you return to Home or reopen AniHim, without pressing the refresh button.",
   "force": false,
-  "sig": "d6862ab75060cfb67b7a7f1c6db545fc99fa8ace4c2438cc8b1a867efc458041"
+  "sig": "bbbe2524063678954ea9cd940de0a03f9edbae13d8be0b5c8a30f8d9773a8212"
 }
