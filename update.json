@@ -1,8 +1,8 @@
 {
-  "build": 10,
-  "version": "1.4.7",
+  "build": 11,
+  "version": "1.4.8",
   "url": "https://raw.githubusercontent.com/afhimel/anihim-updates/main/AniHim.apk",
-  "notes": "Update now shows an in-app download card with percentage, orange progress bar, MB downloaded, status and Cancel instead of relying only on the notification.",
+  "notes": "New Genres screen with two-column poster cards, and advanced Search with genre, format, status, year and sort filters plus playable results.",
   "force": false,
-  "sig": "9767bcd1d8d2dbdedfec8c68bb8e2dce18b8420c433f8fa333c3737dffdd0308"
+  "sig": "bc198966c417675d78964189f00804f5a04ae1391db7ab5caac6c34876129dfc"
 }
