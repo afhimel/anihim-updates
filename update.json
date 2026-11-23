@@ -1,8 +1,8 @@
 {
-  "build": 12,
-  "version": "1.4.9",
+  "build": 13,
+  "version": "1.5.0",
   "url": "https://raw.githubusercontent.com/afhimel/anihim-updates/main/AniHim.apk",
-  "notes": "Search now automatically falls back to AniHim catalogue search when the AniList service is unreachable, and genre artwork loads reliably with retries.",
+  "notes": "Friendlier Search (search icon, clear button, results header and useful empty state) and every genre card now loads its first catalogue poster, with a fallback so no genre stays image-less.",
   "force": false,
-  "sig": "8d82621e02c49cdd344e4ce8368d5f5b4cac1f28392ae13753669f8f9904c98a"
+  "sig": "48925aacdd7680b8040f20bc9c7a53a3f52120e1184f8927f47498c5d4967c3f"
 }
