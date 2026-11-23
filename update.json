@@ -1,8 +1,8 @@
 {
-  "build": 11,
-  "version": "1.4.8",
+  "build": 12,
+  "version": "1.4.9",
   "url": "https://raw.githubusercontent.com/afhimel/anihim-updates/main/AniHim.apk",
-  "notes": "New Genres screen with two-column poster cards, and advanced Search with genre, format, status, year and sort filters plus playable results.",
+  "notes": "Search now automatically falls back to AniHim catalogue search when the AniList service is unreachable, and genre artwork loads reliably with retries.",
   "force": false,
-  "sig": "bc198966c417675d78964189f00804f5a04ae1391db7ab5caac6c34876129dfc"
+  "sig": "8d82621e02c49cdd344e4ce8368d5f5b4cac1f28392ae13753669f8f9904c98a"
 }
